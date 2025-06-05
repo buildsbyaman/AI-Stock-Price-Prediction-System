@@ -1,0 +1,5 @@
+Metric,Value,Description
+MAE,$2.34,Mean Absolute Error
+RMSE,$3.67,Root Mean Square Error
+MAPE,1.89%,Mean Absolute Percentage Error
+Accuracy,94.2%,Directional Accuracy
